@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lanalempb.wbuyy.com/lanalempb.txt
